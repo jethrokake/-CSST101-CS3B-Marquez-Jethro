@@ -1,6 +1,6 @@
 # CCST-102 Lab ACTIVITY 1
 
-
+https://github.com/user-attachments/assets/ac47d7ba-9dc1-4ae7-8b9f-06fe831d35bc
 
 # Table Of Contents
 - [Introduction to Machine Learning](#introduction-to-machine-learning)
